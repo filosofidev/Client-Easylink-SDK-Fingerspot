@@ -1,0 +1,1 @@
+{"Result":true,"Data":[{"no":"","sn":"2014102200009","scan_date":"2016-10-31 14:02:27","pin":"1","verifymode":1","iomode":"0","workcode":"0},{"no":"","sn":"2014102200009","scan_date":"2016-10-31 14:02:34","pin":"2","verifymode":1","iomode":"0","workcode":"0}]}
