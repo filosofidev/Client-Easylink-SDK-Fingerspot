@@ -1,2 +1,2 @@
-# Client-Easylink-SDK-Fingerspot
+# Client Easylink SDK Fingerspot
 Software Development Kit (SDK) untuk Fingerspot
